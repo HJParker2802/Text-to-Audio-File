@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "fufNc2l7FEyAFnBHNscM0dki9FCoqAfj3/dPMah5fQFMG3Uq7BnHQMYbZR4PfOInEgXft0HefZ6mbTJFGhqxYA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hazpa\\source\\repos\\TextToSpeechFile\\TextToSpeechFile\\TextToSpeechFile.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hazpa\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\hazpa\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\hazpa\\.nuget\\packages\\naudio\\2.1.0\\naudio.2.1.0.nupkg.sha512",
+    "C:\\Users\\hazpa\\.nuget\\packages\\naudio.asio\\2.1.0\\naudio.asio.2.1.0.nupkg.sha512",
+    "C:\\Users\\hazpa\\.nuget\\packages\\naudio.core\\2.1.0\\naudio.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\hazpa\\.nuget\\packages\\naudio.lame\\2.0.1\\naudio.lame.2.0.1.nupkg.sha512",
+    "C:\\Users\\hazpa\\.nuget\\packages\\naudio.midi\\2.1.0\\naudio.midi.2.1.0.nupkg.sha512",
+    "C:\\Users\\hazpa\\.nuget\\packages\\naudio.wasapi\\2.1.0\\naudio.wasapi.2.1.0.nupkg.sha512",
+    "C:\\Users\\hazpa\\.nuget\\packages\\naudio.winforms\\2.1.0\\naudio.winforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\hazpa\\.nuget\\packages\\naudio.winmm\\2.1.0\\naudio.winmm.2.1.0.nupkg.sha512",
+    "C:\\Users\\hazpa\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\hazpa\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
+    "C:\\Users\\hazpa\\.nuget\\packages\\system.speech\\7.0.0\\system.speech.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
